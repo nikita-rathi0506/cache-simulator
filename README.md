@@ -13,6 +13,7 @@ This project took some time because:
 - It's a complex topic that required thorough understanding
 
 ## 🏗️ Project Structure
+```
 cache-simulator/
 ├── src/
 │ ├── main.py # Main experiments
@@ -27,6 +28,7 @@ cache-simulator/
 ├── traces/ # Memory access traces
 ├── requirements.txt
 └── README.md
+```
 
 ## 🚀 Features
 - Configurable cache parameters (size, block size, associativity)
