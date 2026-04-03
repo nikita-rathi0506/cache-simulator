@@ -30,6 +30,8 @@ cache-simulator/
 └── README.md
 ```
 
+ **Live Demo:** crypto-portfolio-tracker.streamlit.app
+ 
 ## 🚀 Features
 - Configurable cache parameters (size, block size, associativity)
 - Multiple replacement policies (LRU, FIFO, Random)
